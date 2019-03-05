@@ -1,11 +1,11 @@
-# `module-a`
+# `k-m-0`
 
 > TODO: description
 
 ## Usage
 
 ```
-const moduleA = require('module-a');
+const kM0 = require('k-m-0');
 
 // TODO: DEMONSTRATE API
 ```
