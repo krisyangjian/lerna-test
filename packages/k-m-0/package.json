@@ -25,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/krisyangjian/lerna-test/issues"
+  },
+  "devDependencies": {
+    "k-m-1": "^0.0.3"
   }
 }

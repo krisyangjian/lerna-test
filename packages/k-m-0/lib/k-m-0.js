@@ -1,8 +1,8 @@
 'use strict';
 
-module.exports = kM0;
+module.exports = m0;
 
-function kM0() {
-    console.log('asdasd');
+function m0() {
     // TODO
+    console.log('asdasd')
 }

@@ -1,11 +1,11 @@
-# `k-m-0`
+# `m-0`
 
 > TODO: description
 
 ## Usage
 
 ```
-const kM0 = require('k-m-0');
+const m0 = require('m-0');
 
 // TODO: DEMONSTRATE API
 ```

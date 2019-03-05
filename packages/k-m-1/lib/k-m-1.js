@@ -1,7 +1,7 @@
 'use strict';
 
-module.exports = kM1;
+module.exports = m1;
 
-function kM1() {
+function m1() {
     // TODO
 }
