@@ -14,7 +14,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "http://10.199.1.20:8081/repository/npmself/"
   },
   "repository": {
     "type": "git",
