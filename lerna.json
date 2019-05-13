@@ -10,5 +10,6 @@
   "packages": [
     "packages/*"
   ],
-  "version": "0.0.6"
+  "version": "independent",
+  "lerna": "2.0.0-beta.18"
 }
