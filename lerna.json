@@ -10,5 +10,5 @@
   "packages": [
     "packages/*"
   ],
-  "version": "Independent"
+  "version": "0.0.6"
 }
