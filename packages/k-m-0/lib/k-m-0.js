@@ -4,4 +4,5 @@ module.exports = m0;
 
 function m0() {
     // TODO
+    console.log('fsdfsdf');
 }
